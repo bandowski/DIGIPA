@@ -380,7 +380,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Dr\u00fccke die Leertaste, um dir das Video zum Anlagenmechaniker bei Kronemeyer anzuschauen!"
+                 "value":"Dr\u00fccke die Leertaste, um dir das Video \u00fcber den Anlagenmechaniker von Kronemeyer anzuschauen!"
                 }],
          "type":"tilelayer",
          "visible":true,
