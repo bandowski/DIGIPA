@@ -1607,7 +1607,7 @@
                 }, 
                 {
                  "class":"area",
-                 "height":413.333333333333,
+                 "height":351.333333333333,
                  "id":17,
                  "name":"Versammlungsort",
                  "properties":[
@@ -1630,6 +1630,60 @@
                  "visible":true,
                  "width":470.666666666667,
                  "x":1.33333333333333,
+                 "y":733.333333333333
+                }, 
+                {
+                 "class":"area",
+                 "height":58.333333333333,
+                 "id":34,
+                 "name":"Versammlungsort",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"MeetingRoom"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":" "
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":317.666666666667,
+                 "x":127.333333333333,
+                 "y":672.333333333333
+                }, 
+                {
+                 "class":"area",
+                 "height":58.333333333333,
+                 "id":35,
+                 "name":"Versammlungsort",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"MeetingRoom"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":" "
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":31.666666666667,
+                 "x":-1.66666666666667,
                  "y":671.333333333333
                 }],
          "opacity":1,
@@ -1861,7 +1915,7 @@
          "y":0
         }],
  "nextlayerid":53,
- "nextobjectid":34,
+ "nextobjectid":36,
  "orientation":"orthogonal",
  "properties":[
         {
