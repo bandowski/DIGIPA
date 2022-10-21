@@ -239,6 +239,16 @@
                  "name":"openWebsitePolicy",
                  "type":"string",
                  "value":"fullscreen"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke die Leertaste, um dir das Video zum Anlagenmechaniker bei Kronemeyer anzuschauen!"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -361,6 +371,16 @@
                  "name":"openWebsitePolicy",
                  "type":"string",
                  "value":"fullscreen"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke die Leertaste, um dir das Image-Video von Kronemeyer anzuschauen! "
                 }],
          "type":"tilelayer",
          "visible":true,
