@@ -111,7 +111,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/olZ1zJpiyzo?start=1"
+                 "value":"https:\/\/www.youtube.com\/embed\/olZ1zJpiyzo"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -233,7 +233,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/e-QJveSLUhc?start=1"
+                 "value":"https:\/\/www.youtube.com\/embed\/e-QJveSLUhc"
                 }, 
                 {
                  "name":"openWebsitePolicy",
