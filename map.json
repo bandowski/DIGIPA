@@ -1345,7 +1345,7 @@
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
-                         "value":"onaction"
+                         "value":""
                         }],
                  "rotation":0,
                  "visible":true,
