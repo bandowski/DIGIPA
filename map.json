@@ -1869,7 +1869,7 @@
                         {
                          "name":"focusable",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"jitsiRoom",
@@ -2139,7 +2139,7 @@
                         {
                          "name":"focusable",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"jitsiRoom",
@@ -2285,6 +2285,11 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":" "
+                        }, 
+                        {
+                         "name":"muc_max_occupants",
+                         "type":"string",
+                         "value":"2"
                         }],
                  "rotation":0,
                  "visible":true,
