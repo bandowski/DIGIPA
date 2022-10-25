@@ -2386,6 +2386,26 @@
                  "width":470.666666666667,
                  "x":1.33333333333333,
                  "y":674.333333333333
+                }, 
+                {
+                 "class":"",
+                 "height":49,
+                 "id":36,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#aa0000",
+                     "fontfamily":"Vivaldi",
+                     "italic":true,
+                     "pixelsize":32,
+                     "text":"Herzlich willkommen zur digitalen Potenzialanalyse!",
+                     "wrap":true
+                    },
+                 "visible":true,
+                 "width":546,
+                 "x":21,
+                 "y":493.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2616,7 +2636,7 @@
          "y":0
         }],
  "nextlayerid":59,
- "nextobjectid":36,
+ "nextobjectid":40,
  "orientation":"orthogonal",
  "properties":[
         {
