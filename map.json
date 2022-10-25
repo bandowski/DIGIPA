@@ -2359,7 +2359,7 @@
                         {
                          "name":"breakoutRooms.hideAddRoomButton",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }, 
                         {
                          "name":"focusable",
