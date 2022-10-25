@@ -2279,7 +2279,7 @@
                         {
                          "name":"jitsiConfig: { \"hideAddRoomButton\": false }",
                          "type":"string",
-                         "value":"false"
+                         "value":"true"
                         }, 
                         {
                          "name":"jitsiRoom",
