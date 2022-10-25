@@ -2362,11 +2362,6 @@
                          "value":false
                         }, 
                         {
-                         "name":"jitsiConfig",
-                         "type":"string",
-                         "value":"{ \"breakoutRooms.hideAddRoomButton\": true }"
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
