@@ -2406,6 +2406,25 @@
                  "width":546,
                  "x":21,
                  "y":493.5
+                }, 
+                {
+                 "class":"",
+                 "height":45,
+                 "id":40,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#0000ff",
+                     "fontfamily":"Curlz MT",
+                     "pixelsize":11,
+                     "text":"Hier k\u00f6nnt ihr gemeinsam malen :)",
+                     "wrap":true
+                    },
+                 "visible":true,
+                 "width":72,
+                 "x":1414,
+                 "y":1022.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2636,7 +2655,7 @@
          "y":0
         }],
  "nextlayerid":59,
- "nextobjectid":40,
+ "nextobjectid":41,
  "orientation":"orthogonal",
  "properties":[
         {
