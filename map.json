@@ -2362,6 +2362,11 @@
                          "value":false
                         }, 
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"hideAddRoomButton\": false, \"hideAutoAssignButton\": false, \"hideJoinRoomButton\": false }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
