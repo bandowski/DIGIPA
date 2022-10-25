@@ -1796,11 +1796,6 @@
                  "name":"Einzelgespr\u00e4che",
                  "properties":[
                         {
-                         "name":"JitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
                          "name":"focusable",
                          "type":"bool",
                          "value":false
@@ -1809,6 +1804,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom9"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1845,11 +1845,6 @@
                  "name":"Gruppenraum",
                  "properties":[
                         {
-                         "name":"JitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
                          "name":"focusable",
                          "type":"bool",
                          "value":false
@@ -1858,6 +1853,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom8"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1877,11 +1877,6 @@
                  "name":"Gruppenraum",
                  "properties":[
                         {
-                         "name":"JitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
                          "name":"focusable",
                          "type":"bool",
                          "value":false
@@ -1890,6 +1885,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom7"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1909,11 +1909,6 @@
                  "name":"Gruppenraum",
                  "properties":[
                         {
-                         "name":"JitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
                          "name":"focusable",
                          "type":"bool",
                          "value":false
@@ -1922,6 +1917,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom2"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1941,11 +1941,6 @@
                  "name":"Gruppenraum",
                  "properties":[
                         {
-                         "name":"JitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
                          "name":"focusable",
                          "type":"bool",
                          "value":false
@@ -1954,6 +1949,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom6"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1973,11 +1973,6 @@
                  "name":"Einzelgespr\u00e4che",
                  "properties":[
                         {
-                         "name":"JitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
                          "name":"focusable",
                          "type":"bool",
                          "value":false
@@ -1986,6 +1981,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom1.1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -2005,11 +2005,6 @@
                  "name":"Einzelgespr\u00e4che",
                  "properties":[
                         {
-                         "name":"JitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
                          "name":"focusable",
                          "type":"bool",
                          "value":false
@@ -2018,6 +2013,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom2.1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -2037,11 +2037,6 @@
                  "name":"Einzelgespr\u00e4che",
                  "properties":[
                         {
-                         "name":"JitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
                          "name":"focusable",
                          "type":"bool",
                          "value":false
@@ -2050,6 +2045,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom3.1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -2069,11 +2069,6 @@
                  "name":"Einzelgespr\u00e4che",
                  "properties":[
                         {
-                         "name":"JitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
                          "name":"focusable",
                          "type":"bool",
                          "value":false
@@ -2082,6 +2077,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom4.1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -2101,11 +2101,6 @@
                  "name":"Einzelgespr\u00e4che",
                  "properties":[
                         {
-                         "name":"JitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
                          "name":"focusable",
                          "type":"bool",
                          "value":false
@@ -2114,6 +2109,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom5.1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -2133,11 +2133,6 @@
                  "name":"Einzelgespr\u00e4che",
                  "properties":[
                         {
-                         "name":"JitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
                          "name":"focusable",
                          "type":"bool",
                          "value":false
@@ -2146,6 +2141,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom6.1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -2165,11 +2165,6 @@
                  "name":"Whiteboard",
                  "properties":[
                         {
-                         "name":"JitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
                          "name":"focusable",
                          "type":"bool",
                          "value":false
@@ -2178,6 +2173,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoomsketch"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -2197,11 +2197,6 @@
                  "name":"Einzelgespr\u00e4che",
                  "properties":[
                         {
-                         "name":"JitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
                          "name":"focusable",
                          "type":"bool",
                          "value":false
@@ -2210,6 +2205,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom7.1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -2229,11 +2229,6 @@
                  "name":"Gruppenraum",
                  "properties":[
                         {
-                         "name":"JitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
                          "name":"focusable",
                          "type":"bool",
                          "value":false
@@ -2242,6 +2237,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom3"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -2261,11 +2261,6 @@
                  "name":"Gruppenraum",
                  "properties":[
                         {
-                         "name":"JitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
                          "name":"focusable",
                          "type":"bool",
                          "value":false
@@ -2274,6 +2269,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom4"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -2293,11 +2293,6 @@
                  "name":"Gruppenraum",
                  "properties":[
                         {
-                         "name":"JitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
                          "name":"focusable",
                          "type":"bool",
                          "value":false
@@ -2306,6 +2301,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -2325,11 +2325,6 @@
                  "name":"Gruppenraum",
                  "properties":[
                         {
-                         "name":"JitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
                          "name":"focusable",
                          "type":"bool",
                          "value":false
@@ -2338,6 +2333,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -2357,14 +2357,14 @@
                  "name":"Versammlungsort",
                  "properties":[
                         {
-                         "name":"JitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
                          "name":"focusable",
                          "type":"bool",
-                         "value":true
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"hideAddRoomButton\": true }"
                         }, 
                         {
                          "name":"jitsiRoom",
@@ -2372,14 +2372,14 @@
                          "value":"MeetingRoom"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":" "
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
                         }],
                  "rotation":0,
                  "visible":true,
