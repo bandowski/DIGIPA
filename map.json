@@ -2357,6 +2357,11 @@
                  "name":"Versammlungsort",
                  "properties":[
                         {
+                         "name":"breakoutRooms.hideAddRoomButton",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
                          "name":"focusable",
                          "type":"bool",
                          "value":false
