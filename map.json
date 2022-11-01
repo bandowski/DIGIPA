@@ -129,7 +129,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Dr\u00fccke die Leertaste, um dir das Image-Video von Kronemeyer anzuschauen!"
+                         "value":"Dr\u00fccke die Leertaste, um dich \u00fcber den Packmitteltechnologen zu informieren!"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -3381,12 +3381,14 @@
                 }, 
                 {
                  "class":"",
-                 "height":19,
+                 "height":36,
                  "id":41,
                  "name":"",
                  "rotation":0,
                  "text":
                     {
+                     "bold":true,
+                     "pixelsize":11,
                      "text":"Dieser Weg f\u00fchrt zur Region, in der Firmen und Berufe vorgestellt werden.",
                      "wrap":true
                     },
