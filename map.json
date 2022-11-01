@@ -3238,17 +3238,11 @@
                  "height":46.9999999999998,
                  "id":43,
                  "name":"",
-                 "properties":[
-                        {
-                         "name":"wrap",
-                         "type":"bool",
-                         "value":true
-                        }],
                  "rotation":0,
                  "text":
                     {
                      "fontfamily":"Calibri",
-                     "text":"Packmittel-technologe",
+                     "text":"Packmittel- technologe",
                      "wrap":true
                     },
                  "visible":true,
@@ -3282,7 +3276,7 @@
                  "text":
                     {
                      "fontfamily":"Calibri",
-                     "text":"Werkzeug-mechaniker",
+                     "text":"Werkzeug- mechaniker",
                      "wrap":true
                     },
                  "visible":true,
@@ -3300,7 +3294,7 @@
                     {
                      "fontfamily":"Calibri",
                      "pixelsize":15,
-                     "text":"Personaldienst-leistungs-kaufmann",
+                     "text":"Personaldienst- leistungs- kaufmann",
                      "wrap":true
                     },
                  "visible":true,
@@ -3334,7 +3328,7 @@
                  "text":
                     {
                      "fontfamily":"Calibri",
-                     "text":"Produkt-pr\u00fcferin",
+                     "text":"Produkt- pr\u00fcferin",
                      "wrap":true
                     },
                  "visible":true,
@@ -3351,7 +3345,7 @@
                  "text":
                     {
                      "fontfamily":"Calibri",
-                     "text":"Anlagen-mechaniker",
+                     "text":"Anlagen- mechaniker",
                      "wrap":true
                     },
                  "visible":true,
@@ -3419,7 +3413,7 @@
                  "text":
                     {
                      "fontfamily":"Calibri",
-                     "text":"Verfahrens-technikerin",
+                     "text":"Verfahrens- technikerin",
                      "wrap":true
                     },
                  "visible":true,
@@ -3436,7 +3430,7 @@
                  "text":
                     {
                      "fontfamily":"Calibri",
-                     "text":"Industrie-mechanikerin",
+                     "text":"Industrie- mechanikerin",
                      "wrap":true
                     },
                  "visible":true,
@@ -3453,7 +3447,7 @@
                  "text":
                     {
                      "fontfamily":"Calibri",
-                     "text":"Berufskraft-fahrer",
+                     "text":"Berufskraft- fahrer",
                      "wrap":true
                     },
                  "visible":true,
@@ -3538,7 +3532,7 @@
                  "text":
                     {
                      "fontfamily":"Calibri",
-                     "text":"Verfahrens-mechaniker",
+                     "text":"Verfahrens- mechaniker",
                      "wrap":true
                     },
                  "visible":true,
