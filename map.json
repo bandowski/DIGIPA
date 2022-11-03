@@ -2616,13 +2616,13 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                  "height":100,
                  "id":71,
-                 "name":"Florist",
+                 "name":"Elektronikerin",
                  "opacity":1,
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/embed.coggle.it\/diagram\/Y2Inw1wFSzU0ifob\/27da2b3a91af1cab2490b5b3f352e818ffd0566b1560da0c56202dfe67201799"
+                         "value":"https:\/\/embed.coggle.it\/diagram\/Y2OLblwFSzU0ITuk\/7b4270459e5ec647cb284078248340caef2a9ac10f5d0560b5de14db6a24a116"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -2637,7 +2637,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Dr\u00fccke die Leertaste, um dich \u00fcber den Floristen zu informieren!"
+                         "value":"Dr\u00fccke die Leertaste, um dich \u00fcber die Elektronikerin zu informieren!"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -6080,7 +6080,7 @@
                  "text":
                     {
                      "fontfamily":"Calibri",
-                     "text":"G\u00e4rtner",
+                     "text":"G\u00e4rtner\/Florist",
                      "wrap":true
                     },
                  "visible":true,
@@ -6132,7 +6132,7 @@
                  "text":
                     {
                      "fontfamily":"Calibri",
-                     "text":"Werkzeug- mechaniker",
+                     "text":"Werkzeug- mechanikerin",
                      "wrap":true
                     },
                  "visible":true,
@@ -6219,7 +6219,7 @@
                     {
                      "fontfamily":"Calibri",
                      "pixelsize":15,
-                     "text":"Anlagen- mechaniker  SHK",
+                     "text":"Anlagen- mechanikerin  SHK",
                      "wrap":true
                     },
                  "visible":true,
@@ -6287,7 +6287,7 @@
                  "text":
                     {
                      "fontfamily":"Calibri",
-                     "text":"Florist",
+                     "text":"Elektronikerin",
                      "wrap":true
                     },
                  "visible":true,
