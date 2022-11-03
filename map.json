@@ -1566,7 +1566,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/embed.coggle.it\/diagram\/Y2I3VBWolSW_1G0m\/86f2a077d634563df84a178220e087f26534b79b65f2a21af7144c277f30b12c"
+                         "value":"https:\/\/embed.coggle.it\/diagram\/Y2I3VBWolSW_1G0m\/d6b298dfb3a2a8f08e0ec9885b181f7e4a0a6a98bcf134eb0614dd517581a9fe"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -6167,13 +6167,14 @@
                  "text":
                     {
                      "fontfamily":"Calibri",
-                     "text":"K\u00f6chin",
+                     "pixelsize":13,
+                     "text":"K\u00f6chin\/B\u00e4ckerin\/ Konditorin",
                      "wrap":true
                     },
                  "visible":true,
                  "width":102.666666666667,
-                 "x":1542.66666666667,
-                 "y":2206.5
+                 "x":1545.33333333334,
+                 "y":2209.16666666667
                 }, 
                 {
                  "class":"",
