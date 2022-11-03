@@ -6090,21 +6090,21 @@
                 }, 
                 {
                  "class":"",
-                 "height":52.3333333333335,
+                 "height":47,
                  "id":69,
                  "name":"",
                  "rotation":0,
                  "text":
                     {
                      "fontfamily":"Calibri",
-                     "pixelsize":13,
-                     "text":"KFZ- Mechatroniker (auch sonstige Fahrzeuge)",
+                     "pixelsize":12,
+                     "text":"KFZ- Mecha- troniker (und andere Fahrzeuge)",
                      "wrap":true
                     },
                  "visible":true,
-                 "width":109.333333333334,
-                 "x":1412,
-                 "y":2394.5
+                 "width":102.666666666667,
+                 "x":1414.66666666667,
+                 "y":2397.16666666666
                 }, 
                 {
                  "class":"",
