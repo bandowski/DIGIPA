@@ -636,13 +636,13 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                  "height":100,
                  "id":88,
-                 "name":"Altenpfleger",
+                 "name":"Pflegeberufe",
                  "opacity":1,
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/embed.coggle.it\/diagram\/Y2Ovf8LcldElPd1K\/b5c7d7fdb3d2a83b9705202b5af9ccee632308d44736a2180e0718c93a4ab9ec"
+                         "value":"https:\/\/embed.coggle.it\/diagram\/Y2Jy4MLcldEl9jTu\/04bf5d95db07f2baa76cc03acdc9df8b402c2bd5361b028c968818d10c4ae704"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -6063,7 +6063,7 @@
                  "text":
                     {
                      "fontfamily":"Calibri",
-                     "text":"Altenpfleger",
+                     "text":"Pflegeberufe",
                      "wrap":true
                     },
                  "visible":true,
