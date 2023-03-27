@@ -774,7 +774,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"http:\/\/spiele.campushandwerk-swn.de\/coggle\/Anlagenmechaniker.pdf"
+                         "value":"https:\/\/spiele.campushandwerk-swn.de\/coggle\/Anlagenmechaniker.pdf"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -2094,7 +2094,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"http:\/\/embed.spiele.campushandwerk-swn.de\/coggle\/Fachkraft_fr_Lagerlogistik.pdf"
+                         "value":"https:\/\/embed.spiele.campushandwerk-swn.de\/coggle\/Fachkraft_fr_Lagerlogistik.pdf"
                         }, 
                         {
                          "name":"openWebsitePolicy",
