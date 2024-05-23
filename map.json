@@ -248,7 +248,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.matheretter.de\/mathe-spiele\/kasse"
+                         "value":"https:\/\/www.matheretter.de\/mathe-spiele"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -263,7 +263,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Dr\u00fccke die Leertaste, um das Spiel \"MeisterPOWER\" zu starten. Vergiss die Zeit nicht!"
+                         "value":"Dr\u00fccke die Leertaste, um zum Spiel \"Kassenspiel Geldr\u00fcckgabe\" zu gelangen."
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -3037,8 +3037,8 @@
                  "type":"",
                  "visible":true,
                  "width":90,
-                 "x":2068,
-                 "y":2025.5
+                 "x":2057,
+                 "y":2028.5
                 }],
          "opacity":1,
          "type":"objectgroup",
