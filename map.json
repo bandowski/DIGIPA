@@ -2233,6 +2233,7 @@
         {
          "draworder":"topdown",
          "id":2,
+         "locked":true,
          "name":"floorLayer",
          "objects":[
                 {
@@ -2913,13 +2914,14 @@
                  "rotation":0,
                  "text":
                     {
+                     "halign":"right",
                      "text":"https:\/\/www.matheretter.de\/mathe-spiele\/kasse",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
                  "width":186,
-                 "x":2598,
+                 "x":2800,
                  "y":523.5
                 }],
          "opacity":1,
