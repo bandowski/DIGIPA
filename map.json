@@ -2233,7 +2233,6 @@
         {
          "draworder":"topdown",
          "id":2,
-         "locked":true,
          "name":"floorLayer",
          "objects":[
                 {
@@ -2920,7 +2919,7 @@
                  "type":"",
                  "visible":true,
                  "width":186,
-                 "x":2407,
+                 "x":2598,
                  "y":523.5
                 }],
          "opacity":1,
