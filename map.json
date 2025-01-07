@@ -238,14 +238,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":100,
          "id":101,
-         "locked":true,
-         "name":"Aufgabe Wechselgeld",
+         "name":"Bruchrechnen",
          "opacity":1,
          "properties":[
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/erasmus.campushandwerk-swn.de\/Aufgaben_BvB\/Aufgabe_Wechselgeld.PDF"
+                 "value":"https:\/\/www.matheretter.de\/mathe-spiele\/brueche-quiz"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -378,7 +377,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/erasmus.campushandwerk-swn.de\/Aufgaben_BvB\/Aufgabe%20MeisterPOWER.PDF"
+                 "value":"https:\/\/demo.meister-power.de\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -1320,7 +1319,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/r1.whiteboardfox.com\/1281338-7926-9016"
+                 "value":"https:\/\/r2.whiteboardfox.com\/24105888-9260-9477"
                 }, 
                 {
                  "name":"openWebsitePolicy",
